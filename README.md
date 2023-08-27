@@ -8,11 +8,11 @@ This project involved developing a sales dashboard for a global coffee retailer.
 The coffee retailer operates in a complex ecosystem with multiple stakeholders, each with their own interests and needs. The management is interested in the strategic performance of the business, the sales team in sales data and customer preferences, the marketing team in the effectiveness of promotions and loyalty programs, and so on. Other stakeholders include the operations team, finance team, suppliers, IT team, data analysts, retailers, regulatory bodies, and customers.
 
 ### Stakeholder Analysis
-Management: Interested in the strategic performance of the business. The dashboard provides an overview of sales, popular products, and customer preferences.
-Sales Team: Interested in sales data and customer preferences. The dashboard provides detailed information on sales by product, region, and customer segment.
-Marketing Team: Interested in the effectiveness of promotions and loyalty programs. The dashboard provides insights into the adoption rate of the loyalty program and sales from promotions
-Operations Team: Responsible for the supply chain, inventory, and delivery. The dashboard provides information on the quantity of coffee sold, popular coffee types, and sizes to manage inventory and supply chain efficiently.
-Finance Team: Interested in the sales, costs, and profitability. The dashboard provides information on sales, unit prices, and total revenue.
+- **Management**: Interested in the strategic performance of the business. The dashboard provides an overview of sales, popular products, and customer preferences.
+- **Sales Team**: Interested in sales data and customer preferences. The dashboard provides detailed information on sales by product, region, and customer segment.
+- **Marketing Team**: Interested in the effectiveness of promotions and loyalty programs. The dashboard provides insights into the adoption rate of the loyalty program and sales from promotions
+- **Operations Team**: Responsible for the supply chain, inventory, and delivery. The dashboard provides information on the quantity of coffee sold, popular coffee types, and sizes to manage inventory and supply chain efficiently.
+- **Finance Team**: Interested in the sales, costs, and profitability. The dashboard provides information on sales, unit prices, and total revenue.
 
 ### Objectives:
 The main objectives of this dashboard are to:
