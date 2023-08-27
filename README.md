@@ -63,7 +63,7 @@ The main objectives of this dashboard are to:
 
 - **Data Transformation and Cleansing in Excel**: I utilized advanced Excel functions such as XLOOKUP, INDEX MATCH, COUNTA, SUMIF, IF, and IFS to handle missing values and remove duplicates, ensuring the data's accuracy and completeness before analysis. This critical step laid the foundation for generating reliable insights and supported the decision-making process.
 
-- **Data Visualization Dashboard Creation in Excel**: Developed interactive dashboards using Excel, leveraging Pivot Tables and Charts to organize and visualize data in a meaningful way. This enabled stakeholders to quickly understand the key metrics, trends, and patterns in the data, facilitating informed decisions and strategic planning.
+- **Data Visualization Dashboard Creation in Excel**: Developed interactive dashboards using Excel, leveraging Pivot Tables and Charts to organize and visualize data in a meaningful way. Incorporated timelines and slicers to enable dynamic filtering and drill-down capabilities, providing users with the ability to explore the data in depth and gain insights into specific areas of interest. This enabled stakeholders to quickly understand the key metrics, trends, and patterns in the data, facilitating informed decisions and strategic planning.
 
 - **Data Management**: Used Excel for data storage, ensuring that the data was organized, accessible, and easy to manage. This approach provided a straightforward and cost-effective solution for data management without the need for complex database systems
 
