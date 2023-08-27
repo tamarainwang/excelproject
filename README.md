@@ -1,5 +1,5 @@
 ### Project Title:
-"Sales Dashboard for a Global Coffee Business"
+Sales Dashboard for a Global Coffee Business
 
 ### Project Description:
 This project involved developing a sales dashboard for a global coffee retailer. The stakeholders for this project included the management, sales team, marketing team, operations team, finance team, suppliers, IT team, data analysts, retailers, regulatory bodies, and customers
