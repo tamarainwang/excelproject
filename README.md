@@ -2,7 +2,7 @@
 Sales Dashboard for a Global Coffee Business
 
 ### Project Description:
-This project involved developing a sales dashboard for a global coffee retailer. The stakeholders for this project included the management, sales team, marketing team, operations team, finance team, suppliers, IT team, data analysts, retailers, regulatory bodies, and customers
+This project involved creating an interactive sales dashboard for a global coffee retailer using Excel. The dashboard is designed to serve multiple stakeholders, including management, sales, marketing, operations, and finance teams, by providing real-time insights into sales trends, customer preferences, the effectiveness of promotions and loyalty programs, and supply chain management. The data used includes a wide range of metrics such as order IDs, customer IDs, product details, quantities, geographical locations, and loyalty card usage. Key skills utilized in this project include data transformation and cleansing, dashboard creation, and data management using advanced Excel functions and features. The result is a comprehensive and user-friendly dashboard that empowers stakeholders to make data-driven decisions, optimize operations, enhance customer satisfaction, and drive business growth.
 
 ### Project Background
 The coffee retailer operates in a complex ecosystem with multiple stakeholders, each with their own interests and needs. The management is interested in the strategic performance of the business, the sales team in sales data and customer preferences, the marketing team in the effectiveness of promotions and loyalty programs, and so on. Other stakeholders include the operations team, finance team, suppliers, IT team, data analysts, retailers, regulatory bodies, and customers.
