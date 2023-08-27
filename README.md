@@ -59,10 +59,13 @@ The main objectives of this dashboard are to:
 17. **Month-over-Month or Year-over-Year Growth**: Percentage change in sales compared to the previous month or year.
 18. **Peak Sales Day**: Day with the highest sales.
 
-### Tools Used:
-- **Data Cleaning and Preparation**:Excel
-- **Data Visualisation & Dashboard Development**:Excel
-- **Data Storage**: Excel
+### Key Skills and Competencies:
+
+- **Data Transformation and Cleansing in Excel**: I utilized advanced Excel functions such as XLOOKUP, INDEX MATCH, COUNTA, SUMIF, IF, and IFS to handle missing values and remove duplicates, ensuring the data's accuracy and completeness before analysis. This critical step laid the foundation for generating reliable insights and supported the decision-making process.
+
+- **Data Visualization Dashboard Creation in Excel**: Developed interactive dashboards using Excel, leveraging Pivot Tables and Charts to organize and visualize data in a meaningful way. This enabled stakeholders to quickly understand the key metrics, trends, and patterns in the data, facilitating informed decisions and strategic planning.
+
+- **Data Management**: Used Excel for data storage, ensuring that the data was organized, accessible, and easy to manage. This approach provided a straightforward and cost-effective solution for data management without the need for complex database systems
 
 ### Conclusion:
-The sales dashboard provides valuable insights to help the business make informed decisions regarding product offerings, marketing strategies, and customer engagement. It helped to identify trends, understand customer preferences, and evaluate the loyalty program's effectiveness. This project showcases my ability to work with real-world data, clean and prepare the data for analysis, and develop a comprehensive dashboard using popular tools.
+The project successfully addressed the critical need for a comprehensive and interactive dashboard for the global coffee retailer. By meticulously cleansing and preparing the data using advanced Excel functions, I ensured the foundation of our analysis was robust and reliable. The creation of the interactive dashboard using Pivot Tables and Charts facilitated easy access to key metrics, trends, and patterns in the data, empowering stakeholders to make informed decisions and strategize effectively. Additionally, the strategic use of Excel for data storage ensured the data remained organized, accessible, and manageable without the need for complex database systems. Ultimately, this project not only showcased the effective utilization of Excel for data management and visualization but also demonstrated the immense value that can be derived from transforming raw data into meaningful insights. The dashboard developed will serve as a valuable tool for the coffee retailer in its ongoing efforts to optimize operations, enhance customer satisfaction, and drive business growth.
